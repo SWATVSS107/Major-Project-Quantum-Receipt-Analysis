@@ -1,0 +1,106 @@
+{
+  "source_file": "15TN_NIMSIRGOAN_page_0.pdf",
+  "vendor_name": "KIAH NTERNATONAD",
+  "gstin": "27AJEPM2071L1Z2",
+  "invoice_no": "SAT",
+  "date": "13/11/2025",
+  "items": [
+    {
+      "product_description": "PAN  MUMJF",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "F/VASHI//COMP/LICNO(WH)",
+      "qty": "2016",
+      "unit": "NOS",
+      "rate": "73",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "SAT  TIPZT  TZRZZ SANGLE KOLFAPUR BYPASS ROAD NEAR",
+      "qty": "6",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "//",
+      "qty": "13",
+      "unit": "NOS",
+      "rate": "11",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "DO",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "15000.00",
+      "qty": "135.00138881",
+      "unit": "NOS",
+      "rate": "2",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSC CODE-ICIC0000228 AIC",
+      "qty": "022805002126",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "1548023.00",
+      "qty": "2.5036857",
+      "unit": "NOS",
+      "rate": "69",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "5000.00"
+}

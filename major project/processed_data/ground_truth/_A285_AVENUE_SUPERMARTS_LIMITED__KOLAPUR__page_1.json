@@ -1,0 +1,130 @@
+{
+  "source_file": "_A285_AVENUE_SUPERMARTS_LIMITED__KOLAPUR__page_1.pdf",
+  "vendor_name": "-Way Bill",
+  "gstin": "33ABMES2352L1ZX",
+  "invoice_no": "17-0c1-25",
+  "date": "17-Oct-25",
+  "items": [
+    {
+      "product_description": "DoC",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "c",
+      "qty": "17",
+      "unit": "NOS",
+      "rate": "25",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Ack",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "a-Way Bll",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Oc-:AM",
+      "qty": "17",
+      "unit": "NOS",
+      "rate": "259",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Oct- : PM",
+      "qty": "22",
+      "unit": "NOS",
+      "rate": "25",
+      "subtotal": "11",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "SRI AMIRTHA SAGO INDUSTRIES",
+      "qty": "25",
+      "unit": "NOS",
+      "rate": "26",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "GATE // &//Sangli-Kolhapur Bypass Road",
+      "qty": "127",
+      "unit": "NO",
+      "rate": "2",
+      "subtotal": "1",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAl: ATTURTamil Nadu",
+      "qty": "636121",
+      "unit": "NO",
+      "rate": "12415018000781",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "KolapurFssai : KOLHAPUR",
+      "qty": "416101",
+      "unit": "NO",
+      "rate": "11522043000191",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

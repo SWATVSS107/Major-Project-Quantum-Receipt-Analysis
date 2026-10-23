@@ -1,0 +1,106 @@
+{
+  "source_file": "18_page_0.pdf",
+  "vendor_name": "33BZBPD1096G1ZS",
+  "gstin": "33BZBPD1096G1ZS",
+  "invoice_no": "Amt",
+  "date": "29-10-2025",
+  "items": [
+    {
+      "product_description": "IRN:caddbbacabcdabdcb Ack",
+      "qty": "152523520043790",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Ack Date",
+      "qty": "10",
+      "unit": "NOS",
+      "rate": "2025",
+      "subtotal": "16",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Document",
+      "qty": "18",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Reciplent located in same State",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Document Date",
+      "qty": "29",
+      "unit": "NOS",
+      "rate": "10",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "+",
+      "qty": "5.00",
+      "unit": "NOS",
+      "rate": "0.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Print Date",
+      "qty": "29",
+      "unit": "NOS",
+      "rate": "10",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "on",
+      "qty": "10",
+      "unit": "NOS",
+      "rate": "29",
+      "subtotal": "16",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

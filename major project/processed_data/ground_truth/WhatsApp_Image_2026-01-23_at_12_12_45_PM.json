@@ -1,0 +1,130 @@
+{
+  "source_file": "WhatsApp_Image_2026-01-23_at_12_12_45_PM.pdf",
+  "vendor_name": "BILL OFSUPPLY",
+  "gstin": "27AAAFM6213H1ZJ",
+  "invoice_no": "102196",
+  "date": "16/01/2026",
+  "items": [
+    {
+      "product_description": "Prakash",
+      "qty": "98921",
+      "unit": "NOS",
+      "rate": "14241",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "J-APMCMarketPhase-VashNaviMumba",
+      "qty": "400",
+      "unit": "NOS",
+      "rate": "705",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "GSTIN AAAFMHZJ",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PAN AAAFMH",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FVash//CmpLicWH",
+      "qty": "2016",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "SHOP SUBAHSH NAGAR OPPBLDG  CHEMBUR",
+      "qty": "11",
+      "unit": "NO",
+      "rate": "21",
+      "subtotal": "71",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "//",
+      "qty": "16",
+      "unit": "NOS",
+      "rate": "01",
+      "subtotal": "2026",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Motor",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAI",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Net Weight Rate/QtI",
+      "qty": "1",
+      "unit": "BAGS",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "350.00"
+}

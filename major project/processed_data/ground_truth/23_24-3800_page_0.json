@@ -1,0 +1,106 @@
+{
+  "source_file": "23_24-3800_page_0.pdf",
+  "vendor_name": "UBJECT TO JURIDICTION",
+  "gstin": "",
+  "invoice_no": "NVOICENo",
+  "date": "14-09-2024",
+  "items": [
+    {
+      "product_description": "W",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "VALIDITY",
+      "qty": "09",
+      "unit": "NOS",
+      "rate": "2024",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "/ZA//A//C/SA/SAC&DAND",
+      "qty": "35",
+      "unit": "NOS",
+      "rate": "2",
+      "subtotal": "435",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "A/C",
+      "qty": "04108700000011",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "NVOICENo-/",
+      "qty": "23",
+      "unit": "NOS",
+      "rate": "24",
+      "subtotal": "3800",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "RIVER CONTACT : SSSES",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "NET",
+      "qty": "1",
+      "unit": "KG",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "ERIAL ARTICLE DESCRIPTION",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "342620.00"
+}

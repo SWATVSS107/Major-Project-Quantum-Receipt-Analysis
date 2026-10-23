@@ -1,0 +1,130 @@
+{
+  "source_file": "343_Chennai_page_1.pdf",
+  "vendor_name": "-Way Bill",
+  "gstin": "",
+  "invoice_no": "Supply-343",
+  "date": "12-Jul-257",
+  "items": [
+    {
+      "product_description": "Doc Bill of Supply",
+      "qty": "343",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "JU",
+      "qty": "13",
+      "unit": "NOS",
+      "rate": "25",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "e-Way Bl",
+      "qty": "172159037252",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Jul-:PM",
+      "qty": "12",
+      "unit": "NOS",
+      "rate": "257",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Jul-:PM",
+      "qty": "17",
+      "unit": "NOS",
+      "rate": "2511",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "S/AAAA &AASokanallurVilage",
+      "qty": "284",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "31000",
+      "qty": "31.31",
+      "unit": "NOS",
+      "rate": "000.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Other Amt",
+      "qty": "31",
+      "unit": "NOS",
+      "rate": "31",
+      "subtotal": "000",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "31,31,000.00Other Amt",
+      "qty": "24.180",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Total Inv Amt",
+      "qty": "31.55",
+      "unit": "NOS",
+      "rate": "180.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

@@ -1,0 +1,130 @@
+{
+  "source_file": "367-2_page_0.pdf",
+  "vendor_name": "SUMEET KRISHI UDYOG",
+  "gstin": "",
+  "invoice_no": "SKU/25-26/367",
+  "date": "25-26/367",
+  "items": [
+    {
+      "product_description": "SKU/-/",
+      "qty": "25",
+      "unit": "NOS",
+      "rate": "26",
+      "subtotal": "367",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Jun",
+      "qty": "16",
+      "unit": "NOS",
+      "rate": "25",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Reierence & Dale",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "SSAINO VALIDITY//",
+      "qty": "11",
+      "unit": "NOS",
+      "rate": "202",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Dispatch Doe",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PLOT  TO SURVEYNO",
+      "qty": "11",
+      "unit": "NO",
+      "rate": "15",
+      "subtotal": "860",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "kg",
+      "qty": "95",
+      "unit": "NOS",
+      "rate": "25.000",
+      "subtotal": "00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "(g)",
+      "qty": "03",
+      "unit": "NOS",
+      "rate": "080",
+      "subtotal": "0009",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "%",
+      "qty": "2.50",
+      "unit": "NOS",
+      "rate": "35",
+      "subtotal": "625.00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "LORRYEREIGITADVANC",
+      "qty": "00",
+      "unit": "NOS",
+      "rate": "00076",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

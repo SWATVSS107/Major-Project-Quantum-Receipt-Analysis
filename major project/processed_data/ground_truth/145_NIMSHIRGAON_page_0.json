@@ -1,0 +1,130 @@
+{
+  "source_file": "145_NIMSHIRGAON_page_0.pdf",
+  "vendor_name": "R.MAHENDRAKUMAR &COMPANY",
+  "gstin": "",
+  "invoice_no": "09/04/202",
+  "date": "09/04/202",
+  "items": [
+    {
+      "product_description": "VALIDITY://",
+      "qty": "09",
+      "unit": "NOS",
+      "rate": "04",
+      "subtotal": "202",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "URCHASE ORDER",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "GATENOZT/S/&Z//SANGLKOLHAPOR BYPASSR",
+      "qty": "2",
+      "unit": "NOS",
+      "rate": "2",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "tate:MH",
+      "qty": "115220430001910025.03",
+      "unit": "NOS",
+      "rate": "2027",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "NOCEATE//",
+      "qty": "09",
+      "unit": "NOS",
+      "rate": "2025",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "ATEOFUPPLY//",
+      "qty": "9",
+      "unit": "NOS",
+      "rate": "2025",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "MHDDSSSS",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "A/C",
+      "qty": "00435300108",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Contact",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "3063098270",
+      "qty": "00.00",
+      "unit": "NOS",
+      "rate": "288",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

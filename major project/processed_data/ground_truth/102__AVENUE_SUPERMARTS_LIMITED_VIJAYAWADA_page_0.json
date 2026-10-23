@@ -1,0 +1,130 @@
+{
+  "source_file": "102__AVENUE_SUPERMARTS_LIMITED_VIJAYAWADA_page_0.pdf",
+  "vendor_name": "mqruti",
+  "gstin": "",
+  "invoice_no": "91-9448",
+  "date": "25-26/0102",
+  "items": [
+    {
+      "product_description": "Mobile:+-Email: srimarutiind@gmailcomWebsite:wwwsrimarutiagr",
+      "qty": "91",
+      "unit": "NOS",
+      "rate": "9448288281.82",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "nvoIce :-/",
+      "qty": "2025",
+      "unit": "NO",
+      "rate": "26",
+      "subtotal": "0102",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "hed :BRs :/GROCERY DC Surampally VillGannavaram MandalKrshna",
+      "qty": "403",
+      "unit": "NO",
+      "rate": "521212",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAI:  Validity",
+      "qty": "10123006000334",
+      "unit": "NOS",
+      "rate": "27",
+      "subtotal": "08",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "OT",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "HSN Code",
+      "qty": "1",
+      "unit": "BAGS",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Bags",
+      "qty": "1",
+      "unit": "KGS",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Goods / Services",
+      "qty": "2.950",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "2.950.00",
+      "qty": "5.90",
+      "unit": "NOS",
+      "rate": "000.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "%Discount",
+      "qty": "11.800",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "78.20"
+}

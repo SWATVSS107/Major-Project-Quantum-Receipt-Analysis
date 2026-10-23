@@ -1,0 +1,130 @@
+{
+  "source_file": "345_Medchal_page_0.pdf",
+  "vendor_name": "Email ld",
+  "gstin": "",
+  "invoice_no": "345",
+  "date": "07/08/2029",
+  "items": [
+    {
+      "product_description": "Phone",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Phone No.",
+      "qty": "8472",
+      "unit": "NOS",
+      "rate": "268730",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "#//Nehru GunKALABURAGI",
+      "qty": "8",
+      "unit": "NOS",
+      "rate": "1311",
+      "subtotal": "3",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Krisnna Reody GadownSurvey EEE",
+      "qty": "721",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "JU",
+      "qty": "13",
+      "unit": "NOS",
+      "rate": "25",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "HSN/SAC GST%",
+      "qty": "1",
+      "unit": "BAGS",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "50250.000Qt",
+      "qty": "10.100",
+      "unit": "NOS",
+      "rate": "0025.25",
+      "subtotal": "000.00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "%",
+      "qty": "2",
+      "unit": "NOS",
+      "rate": "50.500",
+      "subtotal": "00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Lorry Freight Advance",
+      "qty": "38.750",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "INR Twenty Five Lakh Thirteen Thousand Two Hundred Fifty Onl",
+      "qty": "25",
+      "unit": "NOS",
+      "rate": "13",
+      "subtotal": "250.00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

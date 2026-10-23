@@ -1,0 +1,130 @@
+{
+  "source_file": "11-2_page_1.pdf",
+  "vendor_name": "PATEL CHATURBHAI RANCHHODBHAI PULSESLLP",
+  "gstin": "",
+  "invoice_no": "25-26/162/11",
+  "date": "27-1-2026",
+  "items": [
+    {
+      "product_description": "HARIKRISHNAAPPROACH ROADVASAD-ANANDGUJARAT INDIA",
+      "qty": "1615",
+      "unit": "NOS",
+      "rate": "388306",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PH:-+",
+      "qty": "02692",
+      "unit": "NOS",
+      "rate": "274251.274139",
+      "subtotal": "919879509599",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "WSMEUDYAM-GJ-- FSSAIVALIDUPTOJUNE",
+      "qty": "03",
+      "unit": "NOS",
+      "rate": "0004177",
+      "subtotal": "2029",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Invoice -//",
+      "qty": "25",
+      "unit": "NO",
+      "rate": "26",
+      "subtotal": "162",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Invoice Date",
+      "qty": "1",
+      "unit": "NOS",
+      "rate": "2026",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "BLOCKNO/P &",
+      "qty": "335",
+      "unit": "NOS",
+      "rate": "336",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Vehicle GJAT",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "E-Way Bill",
+      "qty": "662046672829",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "E-Way Bill Date",
+      "qty": "27",
+      "unit": "NOS",
+      "rate": "1",
+      "subtotal": "2026",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Raleper",
+      "qty": "1",
+      "unit": "BAG",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "201.00"
+}

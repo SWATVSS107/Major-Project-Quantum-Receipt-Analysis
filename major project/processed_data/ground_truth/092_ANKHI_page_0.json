@@ -1,0 +1,70 @@
+{
+  "source_file": "092_ANKHI_page_0.pdf",
+  "vendor_name": "RAMAHENDRAKUMAR& COMPANY",
+  "gstin": "",
+  "invoice_no": "AUDITY0004/202",
+  "date": "05/08/202",
+  "items": [
+    {
+      "product_description": "FSSAI",
+      "qty": "20718002000071",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "//",
+      "qty": "05",
+      "unit": "NOS",
+      "rate": "08",
+      "subtotal": "202",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Z-Way Bil",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "erContact  >",
+      "qty": "9839380911",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "ver LKc  &STATE",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

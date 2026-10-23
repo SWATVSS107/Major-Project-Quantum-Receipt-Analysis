@@ -1,0 +1,130 @@
+{
+  "source_file": "357_page_0.pdf",
+  "vendor_name": "AM AGRO INDUSTRIES",
+  "gstin": "23AACCA8432H1ZY",
+  "invoice_no": "357",
+  "date": "10/07/2027",
+  "items": [
+    {
+      "product_description": "Ph:Mo  Email:padmavatifoodsgmailcom",
+      "qty": "02718282123",
+      "unit": "NOS",
+      "rate": "9825036997",
+      "subtotal": "9825073997",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAl : Validity://",
+      "qty": "10716002000184",
+      "unit": "NO",
+      "rate": "10",
+      "subtotal": "07",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "AckNo/Date:-//",
+      "qty": "162521191413141",
+      "unit": "NOS",
+      "rate": "02",
+      "subtotal": "07",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Invoice",
+      "qty": "357",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "//",
+      "qty": "92",
+      "unit": "NOS",
+      "rate": "07",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Land bearing Khasara /",
+      "qty": "297",
+      "unit": "NO",
+      "rate": "2",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Truck",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Batch",
+      "qty": "1",
+      "unit": "BAG",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "3950.00KGS",
+      "qty": "2.005",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "2.005.00",
+      "qty": "19",
+      "unit": "NOS",
+      "rate": "500.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "32.23"
+}

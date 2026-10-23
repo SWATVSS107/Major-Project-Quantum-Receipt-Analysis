@@ -1,0 +1,94 @@
+{
+  "source_file": "332_B_page_0.pdf",
+  "vendor_name": "EAYSHSEEKOICNA",
+  "gstin": "",
+  "invoice_no": "EwayDt",
+  "date": "09-10-2025",
+  "items": [
+    {
+      "product_description": "SLOCK -P/BARDOLIROADONCHIOISTNAVSARI TARSAD--GUJARA",
+      "qty": "123",
+      "unit": "NOS",
+      "rate": "1",
+      "subtotal": "39642724",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "APHNA WAREHOUSING CORPORATIONGU -SA/F",
+      "qty": "1",
+      "unit": "NOS",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "DATE",
+      "qty": "09",
+      "unit": "NOS",
+      "rate": "10",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Packing Total",
+      "qty": "1",
+      "unit": "BAGS",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "EwayBill",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Polcy",
+      "qty": "23080021250200000007",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Cash Payment shouoe made waaoit cr officialreceint",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "14761.00"
+}

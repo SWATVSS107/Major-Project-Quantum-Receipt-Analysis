@@ -1,0 +1,82 @@
+{
+  "source_file": "25_26-4051_page_0.pdf",
+  "vendor_name": "UBJECT TO JURIDICTION",
+  "gstin": "",
+  "invoice_no": "",
+  "date": "",
+  "items": [
+    {
+      "product_description": "y /E SY  /AA SY  /A SY NO/EE",
+      "qty": "806",
+      "unit": "NO",
+      "rate": "811",
+      "subtotal": "811",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FREIGHT/A",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PER",
+      "qty": "1",
+      "unit": "BAG",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Goods / Services",
+      "qty": "7200.001720000",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "7200.001720000.00",
+      "qty": "14400.00705600",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Within  days from bll date % discoun",
+      "qty": "5",
+      "unit": "NOS",
+      "rate": "2",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

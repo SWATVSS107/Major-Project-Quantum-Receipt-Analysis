@@ -1,0 +1,46 @@
+{
+  "source_file": "0e112663-d896-44d9-9c46-41363d6816f5_page_0.pdf",
+  "vendor_name": "FormC",
+  "gstin": "",
+  "invoice_no": "Manarashua-4165",
+  "date": "13-10-2025",
+  "items": [
+    {
+      "product_description": "Dairy Business Detalls:",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Issued On:--(Renewal License",
+      "qty": "13",
+      "unit": "NOS",
+      "rate": "10",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Valid Upto: -- (For details refer Annexure",
+      "qty": "16",
+      "unit": "NOS",
+      "rate": "10",
+      "subtotal": "2026",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

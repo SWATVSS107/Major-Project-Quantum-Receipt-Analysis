@@ -1,0 +1,118 @@
+{
+  "source_file": "WhatsApp_Image_2026-01-23_at_12_12_43_PM.pdf",
+  "vendor_name": "N-7A.P.M.C.Market-l",
+  "gstin": "27AEKPJ8327D1ZG",
+  "invoice_no": "31925",
+  "date": "16/01/2026",
+  "items": [
+    {
+      "product_description": "Office",
+      "qty": "8080674553",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "//",
+      "qty": "16",
+      "unit": "NOS",
+      "rate": "01",
+      "subtotal": "2026",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "LAABH CHANA DAL",
+      "qty": "30",
+      "unit": "KG",
+      "rate": "07139010",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "LAABH CHANA DAL 30 KG 07139010",
+      "qty": "1",
+      "unit": "BAG",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "SHOP  SANE NIWAS JC CHSCAVES ROADJOGESHWARI",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "//",
+      "qty": "16",
+      "unit": "NOS",
+      "rate": "01",
+      "subtotal": "2026",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "HSN Code",
+      "qty": "1",
+      "unit": "BAG",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "LAABH CHANA DAL",
+      "qty": "30",
+      "unit": "KG",
+      "rate": "07139010",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Lorry",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "4800.60"
+}

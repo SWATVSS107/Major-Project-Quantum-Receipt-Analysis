@@ -1,0 +1,130 @@
+{
+  "source_file": "23-24-3875_page_0.pdf",
+  "vendor_name": "SILLOFSUPPLY",
+  "gstin": "27AACCA8432H1ZO",
+  "invoice_no": "0FFICE-9849",
+  "date": "05-11-2023",
+  "items": [
+    {
+      "product_description": "SY /E SY  /AA SY  /A SYNO /E",
+      "qty": "806",
+      "unit": "NO",
+      "rate": "811",
+      "subtotal": "811",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "SY  S/E SYNO S/AA SY  S/A SY  S/EE",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PLOT BSURVEY  ///NAVKARJNDUSTRIALAND",
+      "qty": "179",
+      "unit": "NO",
+      "rate": "180",
+      "subtotal": "4",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PLOT B SURVEY  ///BNAVKAR INDUSTRIAL ANE",
+      "qty": "15",
+      "unit": "NO",
+      "rate": "179",
+      "subtotal": "180",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "NVOICEDATE",
+      "qty": "05",
+      "unit": "NOS",
+      "rate": "11",
+      "subtotal": "2023",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "BILL",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Goods / Services",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "AMOUNI",
+      "qty": "1",
+      "unit": "BAG",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "00.00",
+      "qty": "8150.001815000",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Within  days trom b date % discount",
+      "qty": "5",
+      "unit": "NOS",
+      "rate": "2",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "921700.00"
+}

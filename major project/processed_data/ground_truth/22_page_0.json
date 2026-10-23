@@ -1,0 +1,130 @@
+{
+  "source_file": "22_page_0.pdf",
+  "vendor_name": "b246f4c09cbedt7ac16493068d009ae618394139de92ic0cd3db39et398ab3c30",
+  "gstin": "",
+  "invoice_no": "25-26/116/22",
+  "date": "4-11-2025",
+  "items": [
+    {
+      "product_description": "ACK",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Nov",
+      "qty": "4",
+      "unit": "NOS",
+      "rate": "25",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "HARIKRISHNAAPPROACH ROADVASAD-ANANDGUJARATINDIA",
+      "qty": "1615",
+      "unit": "NOS",
+      "rate": "388306",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PH:-+",
+      "qty": "02692",
+      "unit": "NOS",
+      "rate": "274251274139",
+      "subtotal": "919879509599",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "MSMEUDYAM-GJ-- FSSAIVALID UPTO JUNE",
+      "qty": "03",
+      "unit": "NOS",
+      "rate": "0004177",
+      "subtotal": "2029",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Invoice -//",
+      "qty": "25",
+      "unit": "NO",
+      "rate": "26",
+      "subtotal": "116",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Invoice Date",
+      "qty": "11",
+      "unit": "NOS",
+      "rate": "2025",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "SURVEYNO: &",
+      "qty": "179.180",
+      "unit": "NOS",
+      "rate": "247",
+      "subtotal": "248",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Vehicle GJX",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "E-Way Bill",
+      "qty": "641998275397",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "300.00"
+}

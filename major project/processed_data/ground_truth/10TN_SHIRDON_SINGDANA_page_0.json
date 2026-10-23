@@ -1,0 +1,94 @@
+{
+  "source_file": "10TN_SHIRDON_SINGDANA_page_0.pdf",
+  "vendor_name": "KIAH NTERNATONAD",
+  "gstin": "",
+  "invoice_no": "1F/VASHI/2016",
+  "date": "07/01/202",
+  "items": [
+    {
+      "product_description": "PAN  MUMJF",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "F/VASHI//COMP/LICNO(WH)",
+      "qty": "2016",
+      "unit": "NOS",
+      "rate": "73",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAIDATE//",
+      "qty": "01",
+      "unit": "NOS",
+      "rate": "202",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "DO",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "elt:/",
+      "qty": "1909",
+      "unit": "NOS",
+      "rate": "2025",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "10000.000",
+      "qty": "200.00122400",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSC CODE-ICIC0000228 AIC",
+      "qty": "022805002126",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "1114002.80"
+}

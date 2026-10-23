@@ -1,0 +1,130 @@
+{
+  "source_file": "358_g_s_trading_page_0.pdf",
+  "vendor_name": "SAGAR AGROINDUSTRIES",
+  "gstin": "",
+  "invoice_no": "02622-2536",
+  "date": "04-09-2025",
+  "items": [
+    {
+      "product_description": "Contact:- (M)Emal: sagar_agroind@yahocoinTANSRsE",
+      "qty": "02622",
+      "unit": "NOS",
+      "rate": "253616",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "GSTRAAJFSBZPANRAAJFSBFSSAIVd DT//",
+      "qty": "07",
+      "unit": "NOS",
+      "rate": "2029",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "nV",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Date",
+      "qty": "04",
+      "unit": "NOS",
+      "rate": "09",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Date",
+      "qty": "04",
+      "unit": "NOS",
+      "rate": "09",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAI::Valid Dt//",
+      "qty": "07",
+      "unit": "NOS",
+      "rate": "17",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAI :: Valid Dt ://",
+      "qty": "01",
+      "unit": "NOS",
+      "rate": "07",
+      "subtotal": "17",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "SR PRODUCT",
+      "qty": "1",
+      "unit": "BAGS",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Batch",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Policy :/",
+      "qty": "23080221230200000010",
+      "unit": "NO",
+      "rate": "19",
+      "subtotal": "07",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "50.00"
+}

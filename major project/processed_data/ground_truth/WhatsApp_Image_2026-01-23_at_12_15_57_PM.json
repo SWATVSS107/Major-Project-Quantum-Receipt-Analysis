@@ -1,0 +1,70 @@
+{
+  "source_file": "WhatsApp_Image_2026-01-23_at_12_15_57_PM.pdf",
+  "vendor_name": "BILL OFSUPPLY",
+  "gstin": "27AAFPL9113L1ZG",
+  "invoice_no": "32884",
+  "date": "17/01/2026",
+  "items": [
+    {
+      "product_description": "Office M)",
+      "qty": "97735",
+      "unit": "NOS",
+      "rate": "08226",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "GST AAFPLLZG",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "E-mail :lodayabrotherse27@gmall.com",
+      "qty": "93211",
+      "unit": "NOS",
+      "rate": "53712",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "BILL",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "//",
+      "qty": "17",
+      "unit": "NOS",
+      "rate": "01",
+      "subtotal": "2026",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

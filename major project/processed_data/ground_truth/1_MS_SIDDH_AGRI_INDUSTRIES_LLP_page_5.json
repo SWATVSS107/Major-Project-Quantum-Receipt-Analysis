@@ -1,0 +1,94 @@
+{
+  "source_file": "1_MS_SIDDH_AGRI_INDUSTRIES_LLP_page_5.pdf",
+  "vendor_name": "Non-Form CAnnexure",
+  "gstin": "",
+  "invoice_no": "L00/0058",
+  "date": "3-3-110",
+  "items": [
+    {
+      "product_description": "Mobile",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "B--/kE",
+      "qty": "3",
+      "unit": "NOS",
+      "rate": "0",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Photo Id",
+      "qty": "514068719035",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Contact : N/A",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "/kt/",
+      "qty": "3",
+      "unit": "NOS",
+      "rate": "3",
+      "subtotal": "110",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Photo Id",
+      "qty": "514068719035",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Issued On: --Renewal License",
+      "qty": "07",
+      "unit": "NOS",
+      "rate": "01",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

@@ -1,0 +1,82 @@
+{
+  "source_file": "0355_RAMCHANDRAPURAM___PATANCHER__U_DMART-Avenue-supermarts_EXCEL_FORMAT__2__15_1_2026_page_0.pdf",
+  "vendor_name": "JSCTTO URIDICEON",
+  "gstin": "",
+  "invoice_no": "25/03/2026",
+  "date": "25/03/2026",
+  "items": [
+    {
+      "product_description": "PLOTNOO SIRVEY ARRSAAOIM PHASEDATANCHEEUSANGAREOOKHYDERARADC",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "ALIDITY://",
+      "qty": "25",
+      "unit": "NOS",
+      "rate": "03",
+      "subtotal": "2026",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "ALIDITY://E",
+      "qty": "25",
+      "unit": "NOS",
+      "rate": "01",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "NVOCENOU-/-/",
+      "qty": "2",
+      "unit": "NOS",
+      "rate": "25",
+      "subtotal": "26",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "+",
+      "qty": "15",
+      "unit": "NOS",
+      "rate": "34",
+      "subtotal": "13",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "15:34:13+0530",
+      "qty": "26.01",
+      "unit": "NOS",
+      "rate": "15",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

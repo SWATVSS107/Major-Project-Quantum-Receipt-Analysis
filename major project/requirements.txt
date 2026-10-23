@@ -1,0 +1,27 @@
+# Web Dashboard
+streamlit>=1.30.0
+
+# Deep Learning & Transformers
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.35.0
+
+# OCR Engines
+paddleocr>=2.7.0
+paddlepaddle>=2.5.0
+pytesseract>=0.3.10
+
+# PDF & Document Processing
+PyMuPDF>=1.23.0
+
+# Computer Vision & Image Processing
+opencv-python>=4.6.0
+Pillow>=9.5.0
+numpy>=1.24.0
+
+# Data Handling & Excel Export
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Utilities
+tqdm>=4.65.0

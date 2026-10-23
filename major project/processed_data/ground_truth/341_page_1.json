@@ -1,0 +1,106 @@
+{
+  "source_file": "341_page_1.pdf",
+  "vendor_name": "Way Bi",
+  "gstin": "",
+  "invoice_no": "Upt9-8ep-2511",
+  "date": "11.12.202",
+  "items": [
+    {
+      "product_description": "lk Upt-ep-: PM",
+      "qty": "2511",
+      "unit": "NOS",
+      "rate": "59",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "warehous",
+      "qty": "23.225",
+      "unit": "NOS",
+      "rate": "22758",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Upto",
+      "qty": "11.12",
+      "unit": "NOS",
+      "rate": "202",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Miswa Puifed oram Dall& PurfedGram Dal",
+      "qty": "000916",
+      "unit": "NOS",
+      "rate": "95",
+      "subtotal": "400.00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Other Amt",
+      "qty": "16",
+      "unit": "NOS",
+      "rate": "95",
+      "subtotal": "400.00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "16,95,400.00 Other Amt",
+      "qty": "29",
+      "unit": "NOS",
+      "rate": "000.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Doc",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "endle",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

@@ -1,0 +1,82 @@
+{
+  "source_file": "085_SHIRDHON_page_0.pdf",
+  "vendor_name": "3STIN: 24AABFK9771L12I",
+  "gstin": "",
+  "invoice_no": "VALIDITY09/04/202",
+  "date": "09/04/202",
+  "items": [
+    {
+      "product_description": "VALIDITY//",
+      "qty": "04",
+      "unit": "NOS",
+      "rate": "202",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PURCHASE ORDER",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "NoMHBX",
+      "qty": "43",
+      "unit": "NOS",
+      "rate": "8665",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "ver contac",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "RRR/GKDATE",
+      "qty": "1",
+      "unit": "NOS",
+      "rate": "41",
+      "subtotal": "541.40",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "4504.00",
+      "qty": "136.156",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

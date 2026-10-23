@@ -1,0 +1,130 @@
+{
+  "source_file": "232__NARESH_VASANJI_page_0.pdf",
+  "vendor_name": "06AAECP4655P2ZU",
+  "gstin": "06AAECP4655P2ZU",
+  "invoice_no": "011-4709",
+  "date": "19/07/2025",
+  "items": [
+    {
+      "product_description": "TEL",
+      "qty": "011",
+      "unit": "NOS",
+      "rate": "47097178",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "UNIT-: &HSIDC INDUSTRIAL AREA",
+      "qty": "1",
+      "unit": "NOS",
+      "rate": "498",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "nvoice PFPL",
+      "qty": "1000232",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Value/Loading Date //",
+      "qty": "19",
+      "unit": "NOS",
+      "rate": "07",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "//",
+      "qty": "19",
+      "unit": "NOS",
+      "rate": "07",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "//",
+      "qty": "29",
+      "unit": "NOS",
+      "rate": "07",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "SURVEY  /SHED  JALLAPALLI",
+      "qty": "30",
+      "unit": "NO",
+      "rate": "2",
+      "subtotal": "2",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "SURVEYNO /SHED  JALLAPALL",
+      "qty": "30",
+      "unit": "NO",
+      "rate": "2",
+      "subtotal": "2",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Tel",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Fssai",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "500.00"
+}

@@ -1,0 +1,70 @@
+{
+  "source_file": "232_KANERA_page_0.pdf",
+  "vendor_name": "R.MAHENDRAKUMAR & COMPANY",
+  "gstin": "24AABFR9771L1ZP",
+  "invoice_no": "09/04/2029",
+  "date": "09/04/2029",
+  "items": [
+    {
+      "product_description": "ALIDTY://",
+      "qty": "09",
+      "unit": "NOS",
+      "rate": "04",
+      "subtotal": "2029",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "NVO//",
+      "qty": "1",
+      "unit": "NOS",
+      "rate": "20",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "ehide NgGlTD",
+      "qty": "27",
+      "unit": "NOS",
+      "rate": "7107",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Way Bi",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "DOSERINER",
+      "qty": "1",
+      "unit": "NOS",
+      "rate": "74",
+      "subtotal": "626.40",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

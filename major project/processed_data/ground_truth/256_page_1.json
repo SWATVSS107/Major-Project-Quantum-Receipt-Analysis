@@ -1,0 +1,94 @@
+{
+  "source_file": "256_page_1.pdf",
+  "vendor_name": "-Way Bil",
+  "gstin": "",
+  "invoice_no": "Supply-SAl/256",
+  "date": "26.2-333",
+  "items": [
+    {
+      "product_description": "Doc : Bill of Supply-SAl/",
+      "qty": "256",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Survey  -Balapur Mandal",
+      "qty": "26.2",
+      "unit": "NO",
+      "rate": "333",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Gat //&//Sangli-Kolhapur BypassRoadNer",
+      "qty": "127",
+      "unit": "NO",
+      "rate": "2",
+      "subtotal": "1",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "OtherAml",
+      "qty": "8",
+      "unit": "NOS",
+      "rate": "86.900",
+      "subtotal": "00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "8,86.900.00 OtherAml",
+      "qty": "18.000",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Total lnv Am",
+      "qty": "9.04",
+      "unit": "NOS",
+      "rate": "900.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Doc",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

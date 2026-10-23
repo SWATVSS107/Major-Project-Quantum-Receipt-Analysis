@@ -1,0 +1,34 @@
+{
+  "source_file": "WhatsApp_Image_2026-01-23_at_12_15_50_PM.pdf",
+  "vendor_name": "RTGS/NEFT8080674553/7666212255",
+  "gstin": "27AAAPN6110G1Z3",
+  "invoice_no": "RTGS/NEFT8080674553/7666",
+  "date": "17/01/2026",
+  "items": [
+    {
+      "product_description": "DATE//",
+      "qty": "01",
+      "unit": "NOS",
+      "rate": "2026",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "SUBHASH NAGARCHEMBUR MUMBAI  CHEMBUR",
+      "qty": "14",
+      "unit": "NOS",
+      "rate": "4000071",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

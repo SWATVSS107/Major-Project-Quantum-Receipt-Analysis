@@ -1,0 +1,130 @@
+{
+  "source_file": "307_d_mart_page_0.pdf",
+  "vendor_name": "SUBIECTTOSIRUGUPPA JURDICTION",
+  "gstin": "",
+  "invoice_no": "152200352178",
+  "date": "30-08-2025",
+  "items": [
+    {
+      "product_description": "MOILE  /",
+      "qty": "9900651888",
+      "unit": "NO",
+      "rate": "944887076",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAI",
+      "qty": "11223305000110",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "VALIDITY",
+      "qty": "24",
+      "unit": "NOS",
+      "rate": "04",
+      "subtotal": "2029",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "/AAAA&AASokanallur VllaeVoyalanalur Union RoadPoonamalleTalu",
+      "qty": "5",
+      "unit": "NO",
+      "rate": "284",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "/AAAA&AASokanallurVageVoyalanallu",
+      "qty": "5",
+      "unit": "NO",
+      "rate": "284",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "SSAI NOVALIDITY",
+      "qty": "26",
+      "unit": "NOS",
+      "rate": "05",
+      "subtotal": "2029",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAINO:VALIDITY",
+      "qty": "05",
+      "unit": "NOS",
+      "rate": "2029",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "E-WAY BILL",
+      "qty": "152200352178",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "AC",
+      "qty": "64047498493",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "E-WAY BILL DATE",
+      "qty": "30",
+      "unit": "NOS",
+      "rate": "08",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "80374.00"
+}

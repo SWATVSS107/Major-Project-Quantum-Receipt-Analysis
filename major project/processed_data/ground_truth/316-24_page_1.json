@@ -1,0 +1,70 @@
+{
+  "source_file": "316-24_page_1.pdf",
+  "vendor_name": "Way B",
+  "gstin": "",
+  "invoice_no": "pplySAI/31",
+  "date": "8.77.100",
+  "items": [
+    {
+      "product_description": ".000",
+      "qty": "5",
+      "unit": "NOS",
+      "rate": "77.100",
+      "subtotal": "00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "OtherA",
+      "qty": "8",
+      "unit": "NOS",
+      "rate": "77100.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "8,77100.00 OtherA",
+      "qty": "8.77",
+      "unit": "NOS",
+      "rate": "100.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Doc",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "hidle",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

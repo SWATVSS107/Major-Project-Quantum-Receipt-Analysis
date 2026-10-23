@@ -1,0 +1,94 @@
+{
+  "source_file": "066_KANERA_page_0.pdf",
+  "vendor_name": "3STIN: Z4AABFR9771L12j",
+  "gstin": "",
+  "invoice_no": "AHMEOABAD-3824",
+  "date": "09/04/2029",
+  "items": [
+    {
+      "product_description": "VALDTY//",
+      "qty": "04",
+      "unit": "NOS",
+      "rate": "2029",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PAN  : AACCASH",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "DATEOFSUPPLY-//",
+      "qty": "25",
+      "unit": "NOS",
+      "rate": "06",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "river Lic  &STATE",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "iver Comtact",
+      "qty": "1",
+      "unit": "NOS",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "775.66",
+      "qty": "2.37",
+      "unit": "NOS",
+      "rate": "416.40",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "OTAI",
+      "qty": "7.020",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

@@ -1,0 +1,130 @@
+{
+  "source_file": "135_page_0.pdf",
+  "vendor_name": "RN:47dcad31bb30d5445853fc42a72d167a3b4c9653adfcaf5849bc7bbaceaeaa59",
+  "gstin": "33ADEPN6567A1ZR",
+  "invoice_no": "511911492623",
+  "date": "20/11/2025",
+  "items": [
+    {
+      "product_description": "Ack",
+      "qty": "152523773730090",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "AcDate",
+      "qty": "1",
+      "unit": "NOS",
+      "rate": "2022380",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "E-way Bill",
+      "qty": "511911492623",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "E-way Bill Date:--:: E-way Valid Till",
+      "qty": "2025",
+      "unit": "NOS",
+      "rate": "11",
+      "subtotal": "2022",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "/VadachennimalaiAttur Tk",
+      "qty": "5",
+      "unit": "NOS",
+      "rate": "320",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "nvoice",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "//",
+      "qty": "20",
+      "unit": "NOS",
+      "rate": "11",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "//",
+      "qty": "20",
+      "unit": "NOS",
+      "rate": "11",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "E-way",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "GATNO/ & //SANGLKOLHAPUR",
+      "qty": "127",
+      "unit": "NOS",
+      "rate": "21",
+      "subtotal": "127",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "9.67"
+}

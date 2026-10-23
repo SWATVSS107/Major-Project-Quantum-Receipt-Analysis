@@ -1,0 +1,130 @@
+{
+  "source_file": "03_page_0.pdf",
+  "vendor_name": "a69d4ct478126ee88432c167a2555ec43f53dfa785374747e02tb8c462107563",
+  "gstin": "",
+  "invoice_no": "25-26/131/03",
+  "date": "4-12-2025",
+  "items": [
+    {
+      "product_description": "ACK",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Dec",
+      "qty": "4",
+      "unit": "NOS",
+      "rate": "25",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PH:-+",
+      "qty": "02692",
+      "unit": "NOS",
+      "rate": "274251274139",
+      "subtotal": "91",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "MSMEUDYAM-GJ-- FSSAI VALIDUPTO JUNE",
+      "qty": "03",
+      "unit": "NOS",
+      "rate": "0004177",
+      "subtotal": "2029",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Invoice -//",
+      "qty": "25",
+      "unit": "NO",
+      "rate": "26",
+      "subtotal": "131",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Invoice Date",
+      "qty": "12",
+      "unit": "NOS",
+      "rate": "2025",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Vehicle GJY",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "State Code  Gujarat Pincode",
+      "qty": "24",
+      "unit": "NOS",
+      "rate": "382210",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "E-Way Bill",
+      "qty": "642015557775",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "E-Way Bill Date",
+      "qty": "4",
+      "unit": "NOS",
+      "rate": "12",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

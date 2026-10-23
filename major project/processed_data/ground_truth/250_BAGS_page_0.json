@@ -1,0 +1,94 @@
+{
+  "source_file": "250_BAGS_page_0.pdf",
+  "vendor_name": "KIAH NTERNATONAD",
+  "gstin": "",
+  "invoice_no": "07/01/31",
+  "date": "07/01/31",
+  "items": [
+    {
+      "product_description": "PAN  MUMJF",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAID://",
+      "qty": "07",
+      "unit": "NOS",
+      "rate": "01",
+      "subtotal": "31",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "F/VASHI//COMP/LICNO(WH)",
+      "qty": "2016",
+      "unit": "NOS",
+      "rate": "73",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "//",
+      "qty": "04",
+      "unit": "NOS",
+      "rate": "02",
+      "subtotal": "2028",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "DO",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "elD //",
+      "qty": "04",
+      "unit": "NOS",
+      "rate": "02",
+      "subtotal": "2028",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "CICI BANK LTD.-VASH",
+      "qty": "022805002126",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "2500.00"
+}

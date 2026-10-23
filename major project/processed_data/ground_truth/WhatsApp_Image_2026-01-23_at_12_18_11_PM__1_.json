@@ -1,0 +1,46 @@
+{
+  "source_file": "WhatsApp_Image_2026-01-23_at_12_18_11_PM__1_.pdf",
+  "vendor_name": "GST No.27AAAPL4130G1Z5",
+  "gstin": "27AAAPL4130G1Z5",
+  "invoice_no": "55203",
+  "date": "",
+  "items": [
+    {
+      "product_description": "GST AAAPLGZ",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "BILL",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "/",
+      "qty": "20",
+      "unit": "NOS",
+      "rate": "01",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

@@ -1,0 +1,94 @@
+{
+  "source_file": "102-1_page_0.pdf",
+  "vendor_name": "Subject to AKOLA Jurisdiction Only",
+  "gstin": "",
+  "invoice_no": "AKOLA -4440",
+  "date": "17/11/2025",
+  "items": [
+    {
+      "product_description": "B- NEW KIRANA BAZAR BALAPUR ROADAKOLAAKOLA",
+      "qty": "2",
+      "unit": "NOS",
+      "rate": "444001",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Date://",
+      "qty": "17",
+      "unit": "NOS",
+      "rate": "11",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Veh:MHBM",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Particular",
+      "qty": "1",
+      "unit": "BAGS",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "TO PAY Due Dt//",
+      "qty": "18",
+      "unit": "NOS",
+      "rate": "11",
+      "subtotal": "25",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "ACCOUNT",
+      "qty": "50200057805445",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "tact Bayaskar Saftware",
+      "qty": "9423121048",
+      "unit": "NOS",
+      "rate": "9404821648",
+      "subtotal": "9405666648",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

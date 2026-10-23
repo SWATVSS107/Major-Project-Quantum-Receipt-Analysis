@@ -1,0 +1,130 @@
+{
+  "source_file": "21_page_0.pdf",
+  "vendor_name": "abe3eetet39eta738d858cb219c53bd3t777910b4598a9db2ab0e300a8d0edb5",
+  "gstin": "24AADFP0478L1Z3",
+  "invoice_no": "25-26/116/21",
+  "date": "4-11-2025",
+  "items": [
+    {
+      "product_description": "ACK",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Nov",
+      "qty": "4",
+      "unit": "NOS",
+      "rate": "25",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "HARIKRISHNAAPPROACH ROADVASAD-ANANDGUJARAT INDIA",
+      "qty": "1615",
+      "unit": "NOS",
+      "rate": "388306",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PH:-+",
+      "qty": "02692",
+      "unit": "NOS",
+      "rate": "274251274139",
+      "subtotal": "919879509599",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "STATE CODE:GUJARAT GST :AADFPLZ PANAADFPL",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "MSMEUDYAM-GJ-- FSSAIVALIDUPTO JUNE",
+      "qty": "03",
+      "unit": "NOS",
+      "rate": "0004177",
+      "subtotal": "2029",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Invoice -//",
+      "qty": "25",
+      "unit": "NO",
+      "rate": "26",
+      "subtotal": "116",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Invoice Date",
+      "qty": "4",
+      "unit": "NOS",
+      "rate": "11",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PO &Dale",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Vehicle  GJAY",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "334.00"
+}

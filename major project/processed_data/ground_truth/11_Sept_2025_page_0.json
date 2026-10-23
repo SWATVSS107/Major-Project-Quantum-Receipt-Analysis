@@ -1,0 +1,70 @@
+{
+  "source_file": "11_Sept_2025_page_0.pdf",
+  "vendor_name": "PIGEONS",
+  "gstin": "",
+  "invoice_no": "601-602",
+  "date": "",
+  "items": [
+    {
+      "product_description": "[S",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "by both of the parties from time to time will be charged by ",
+      "qty": "72",
+      "unit": "NOS",
+      "rate": "000",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Ivory Terrace RC Dutt Rd",
+      "qty": "601",
+      "unit": "NOS",
+      "rate": "602",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Pnon+",
+      "qty": "91",
+      "unit": "NOS",
+      "rate": "265",
+      "subtotal": "6641215",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Tel/Fax+",
+      "qty": "91",
+      "unit": "NOS",
+      "rate": "265",
+      "subtotal": "6641444",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "72000.00"
+}

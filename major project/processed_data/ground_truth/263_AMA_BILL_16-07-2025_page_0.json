@@ -1,0 +1,130 @@
+{
+  "source_file": "263_AMA_BILL_16-07-2025_page_0.pdf",
+  "vendor_name": "Subject to Navi Mumbal Junisdiction",
+  "gstin": "",
+  "invoice_no": "263",
+  "date": "16-07-2025",
+  "items": [
+    {
+      "product_description": "Reqitered OfficePlot  OppAPMCMKT-SectorE)Vashi",
+      "qty": "34",
+      "unit": "NO",
+      "rate": "2",
+      "subtotal": "400",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Correspondence: Plot  OppAPMCMKT-Sector  (E)Vashi",
+      "qty": "34",
+      "unit": "NO",
+      "rate": "2",
+      "subtotal": "19",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PAN :AAMIFNA",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Date",
+      "qty": "16",
+      "unit": "NOS",
+      "rate": "07",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Lr",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Loading Date",
+      "qty": "3907",
+      "unit": "NOS",
+      "rate": "2025",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "3907-2025",
+      "qty": "09",
+      "unit": "NOS",
+      "rate": "07",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "09-07-2025",
+      "qty": "2",
+      "unit": "NOS",
+      "rate": "07",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Vehicle",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "NH--Y",
+      "qty": "43",
+      "unit": "NOS",
+      "rate": "7577",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "26790.00"
+}

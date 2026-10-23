@@ -1,0 +1,70 @@
+{
+  "source_file": "1_MS_SIDDH_AGRI_INDUSTRIES_LLP_page_0.pdf",
+  "vendor_name": "Form",
+  "gstin": "",
+  "invoice_no": "SHED-A7-67",
+  "date": "7-01-2026",
+  "items": [
+    {
+      "product_description": "SHED-A-/ SY  & FAROOQ",
+      "qty": "67",
+      "unit": "NO",
+      "rate": "7",
+      "subtotal": "805",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "SHED-A-/SYNO & FAROOQ",
+      "qty": "67",
+      "unit": "NOS",
+      "rate": "796",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Dairy Business Details",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "ssued On:p-- (Renewal License)",
+      "qty": "01",
+      "unit": "NOS",
+      "rate": "2026",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Valid Upto: --For detailsrefer Annexure",
+      "qty": "05",
+      "unit": "NOS",
+      "rate": "02",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

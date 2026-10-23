@@ -1,0 +1,70 @@
+{
+  "source_file": "WhatsApp_Image_2026-01-23_at_12_18_25_PM__1_.pdf",
+  "vendor_name": "41FNASHI/2016/COMP/LICNO.73(W.H).",
+  "gstin": "27AAFPL9113L1ZG",
+  "invoice_no": "33322",
+  "date": "07/01/31",
+  "items": [
+    {
+      "product_description": "FSSAI:D//)",
+      "qty": "01",
+      "unit": "NOS",
+      "rate": "31",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FNASHI//COMP/LICNO(WH)",
+      "qty": "2016",
+      "unit": "NOS",
+      "rate": "73",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "GST AAFPLLZG",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "BILL",
+      "qty": "33322",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "D-/",
+      "qty": "5",
+      "unit": "NOS",
+      "rate": "6",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

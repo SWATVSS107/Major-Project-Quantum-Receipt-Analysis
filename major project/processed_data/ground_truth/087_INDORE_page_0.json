@@ -1,0 +1,82 @@
+{
+  "source_file": "087_INDORE_page_0.pdf",
+  "vendor_name": "R.MAHENDRAKUMAR & COMPANY",
+  "gstin": "",
+  "invoice_no": "AHMEDABAD-3824",
+  "date": "03/04/202",
+  "items": [
+    {
+      "product_description": "VALIDITY://",
+      "qty": "03",
+      "unit": "NOS",
+      "rate": "04",
+      "subtotal": "202",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "ANO SEARINGSURVEY   PLOT  EMPIRE LGGIPARKVELAGI",
+      "qty": "2",
+      "unit": "NO",
+      "rate": "13",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "OICEATE//",
+      "qty": "7",
+      "unit": "NOS",
+      "rate": "202",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "ehicle",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "A/C",
+      "qty": "00435300108",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Way Bi",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

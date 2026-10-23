@@ -1,0 +1,82 @@
+{
+  "source_file": "182_INDORE_HMT_page_0.pdf",
+  "vendor_name": "R.MAHENDRAKUMAR & COMPANY",
+  "gstin": "",
+  "invoice_no": "09/04/202",
+  "date": "11/12/202",
+  "items": [
+    {
+      "product_description": "VALIDITY://E",
+      "qty": "09",
+      "unit": "NOS",
+      "rate": "04",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "VOXEDATE//",
+      "qty": "12",
+      "unit": "NOS",
+      "rate": "202",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "ehicleNoMPH",
+      "qty": "33",
+      "unit": "NOS",
+      "rate": "775",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "E-Way Bia",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "river Contact )",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "ANNGROATL",
+      "qty": "6",
+      "unit": "NOS",
+      "rate": "06.809",
+      "subtotal": "30",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "506836.00"
+}

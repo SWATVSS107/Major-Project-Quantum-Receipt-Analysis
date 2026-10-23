@@ -1,0 +1,130 @@
+{
+  "source_file": "312-Bannerghatta_page_1.pdf",
+  "vendor_name": "-Way Bill",
+  "gstin": "29AACCA8432H1ZM",
+  "invoice_no": "Supply-312",
+  "date": "4-Jul-258",
+  "items": [
+    {
+      "product_description": "Doc Bll of Supply",
+      "qty": "312",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Way Bl",
+      "qty": "152152395135",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Jul-: PM",
+      "qty": "4",
+      "unit": "NOS",
+      "rate": "258",
+      "subtotal": "09",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Jul-:PM",
+      "qty": "7",
+      "unit": "NOS",
+      "rate": "2511",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Rice MPNo KIADBRachur Road",
+      "qty": "18.21",
+      "unit": "NOS",
+      "rate": "22",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "headNoSiteNo/",
+      "qty": "2",
+      "unit": "NOS",
+      "rate": "137.139",
+      "subtotal": "140.150",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "113.360",
+      "qty": "5.57731",
+      "unit": "NOS",
+      "rate": "20",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Other Amt",
+      "qty": "5.57",
+      "unit": "NOS",
+      "rate": "731",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "5.57,731.20Other Amt",
+      "qty": "3.672",
+      "unit": "NOS",
+      "rate": "80",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Total Inv Amt",
+      "qty": "5.61",
+      "unit": "NOS",
+      "rate": "404.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

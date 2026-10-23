@@ -1,0 +1,46 @@
+{
+  "source_file": "WhatsApp_Image_2026-01-23_at_12_10_03_PM.pdf",
+  "vendor_name": "27AJEPM2071L1Z2",
+  "gstin": "27AJEPM2071L1Z2",
+  "invoice_no": "07/01/31",
+  "date": "07/01/31",
+  "items": [
+    {
+      "product_description": "D://)",
+      "qty": "07",
+      "unit": "NOS",
+      "rate": "01",
+      "subtotal": "31",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "//",
+      "qty": "13",
+      "unit": "NOS",
+      "rate": "01",
+      "subtotal": "2026",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "MOTI KG SAGO",
+      "qty": "30",
+      "unit": "KG",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

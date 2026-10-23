@@ -1,0 +1,82 @@
+{
+  "source_file": "102-2_page_0.pdf",
+  "vendor_name": "Branch Office Contact 1Contact 2",
+  "gstin": "",
+  "invoice_no": "102",
+  "date": "05-01-2026",
+  "items": [
+    {
+      "product_description": "Sangareddy (TS)|",
+      "qty": "9271714371",
+      "unit": "NOS",
+      "rate": "9573389992",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "jayhindtransport@gmailcom PAN PBAPSL",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Mobile",
+      "qty": "9271714371.9271775666",
+      "unit": "NO",
+      "rate": "8380958888.9573389992",
+      "subtotal": "9075138444",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "BillNo:102",
+      "qty": "05",
+      "unit": "NOS",
+      "rate": "01",
+      "subtotal": "2026",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Lorry :TN  AC",
+      "qty": "52",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "GOPAL AGENCIES --/ MAHARAJ",
+      "qty": "15",
+      "unit": "NOS",
+      "rate": "9",
+      "subtotal": "38",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

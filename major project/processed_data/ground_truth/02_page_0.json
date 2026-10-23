@@ -1,0 +1,130 @@
+{
+  "source_file": "02_page_0.pdf",
+  "vendor_name": "3da3743644c92b46be1e5cef8c2699969ef15754fbt4ec3e19e81ec85aa859dd",
+  "gstin": "24AACCA8432H1ZW",
+  "invoice_no": "25-26/131/02",
+  "date": "4-12-2025",
+  "items": [
+    {
+      "product_description": "ACK",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Dec",
+      "qty": "4",
+      "unit": "NOS",
+      "rate": "25",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "HARIKRISHNAAPPROACH ROADVASAD-ANANDGUJARATINDIA",
+      "qty": "1615",
+      "unit": "NOS",
+      "rate": "388306",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PH:-+",
+      "qty": "02692",
+      "unit": "NOS",
+      "rate": "274251274139",
+      "subtotal": "919879509599",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "MSME:UDYAM-GJ--FSSAIVALID UPTOJUNE",
+      "qty": "03",
+      "unit": "NOS",
+      "rate": "2029",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "InvoiceNo-//",
+      "qty": "25",
+      "unit": "NOS",
+      "rate": "26",
+      "subtotal": "131",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Viral Warehouse-Survey /",
+      "qty": "4",
+      "unit": "NO",
+      "rate": "262",
+      "subtotal": "2",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Invoice Date",
+      "qty": "12",
+      "unit": "NOS",
+      "rate": "2025",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PO &Date",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Vehicle GJAT",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

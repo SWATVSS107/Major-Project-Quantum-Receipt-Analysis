@@ -1,0 +1,82 @@
+{
+  "source_file": "115_KASINDRA_page_0.pdf",
+  "vendor_name": "SSTIN: 24AABFR9771L12P",
+  "gstin": "",
+  "invoice_no": "09/04/2029",
+  "date": "19/06/20",
+  "items": [
+    {
+      "product_description": "VALIDITY : //",
+      "qty": "09",
+      "unit": "NOS",
+      "rate": "04",
+      "subtotal": "2029",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "SarVey /NR NANA CHAPRAAHMEDABAD TO DHOLKA ROADKAS",
+      "qty": "696",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "NVOKE DATE  //",
+      "qty": "19",
+      "unit": "NOS",
+      "rate": "06",
+      "subtotal": "20",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "DATE OF SUPPLY //",
+      "qty": "19",
+      "unit": "NOS",
+      "rate": "08",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "GJVV",
+      "qty": "7107",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "A/C",
+      "qty": "00435300108",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

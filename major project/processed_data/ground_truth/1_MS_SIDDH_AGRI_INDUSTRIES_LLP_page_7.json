@@ -1,0 +1,34 @@
+{
+  "source_file": "1_MS_SIDDH_AGRI_INDUSTRIES_LLP_page_7.pdf",
+  "vendor_name": "Other Condition",
+  "gstin": "",
+  "invoice_no": "",
+  "date": "",
+  "items": [
+    {
+      "product_description": "producer or manufacturer or vegetable oiledible oll and thei",
+      "qty": "4",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "irectiv to aregistereo user and not o anv oiner personand  s",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

@@ -1,0 +1,106 @@
+{
+  "source_file": "1_MS_SIDDH_AGRI_INDUSTRIES_LLP_page_4.pdf",
+  "vendor_name": "Validation And Renewal Annexure",
+  "gstin": "",
+  "invoice_no": "6-02-2025",
+  "date": "6-02-2025",
+  "items": [
+    {
+      "product_description": "Authority",
+      "qty": "6",
+      "unit": "NOS",
+      "rate": "02",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "6-02-2025",
+      "qty": "05",
+      "unit": "NOS",
+      "rate": "02",
+      "subtotal": "2026",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "05-02-2026",
+      "qty": "06",
+      "unit": "NOS",
+      "rate": "02",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Authority",
+      "qty": "6",
+      "unit": "NOS",
+      "rate": "02",
+      "subtotal": "2026",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "6-02-2026",
+      "qty": "05",
+      "unit": "NOS",
+      "rate": "02",
+      "subtotal": "2031",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "05-02-2031",
+      "qty": "07",
+      "unit": "NOS",
+      "rate": "01",
+      "subtotal": "2026",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSsAI vide order number //FoSCoS/RcD/FSsAlpt-Part dated th a",
+      "qty": "1531",
+      "unit": "NOS",
+      "rate": "2020",
+      "subtotal": "2023",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAI vide order number )/FoSCoS/RCD/FSSAI dated th October ",
+      "qty": "3",
+      "unit": "NOS",
+      "rate": "1531",
+      "subtotal": "2020",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

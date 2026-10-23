@@ -1,0 +1,130 @@
+{
+  "source_file": "227__AVENUE_SUPERMARTS_LIMITED_VIJAYAWADA-1_page_0.pdf",
+  "vendor_name": "maruti",
+  "gstin": "",
+  "invoice_no": "2025-26/0227",
+  "date": "10-Jan-2026",
+  "items": [
+    {
+      "product_description": "Factory:#//AKIADB Growth CenterHyderabad RoadYermarasRAICHUR",
+      "qty": "213",
+      "unit": "NOS",
+      "rate": "9",
+      "subtotal": "584134",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Mobile:+-Email srimarutind@gmailcom Website:wwwsrimarutiagro",
+      "qty": "91",
+      "unit": "NOS",
+      "rate": "9448288281.82",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "GSTNRAMFSNPAN ABMFSB FSSAI   VAdUO",
+      "qty": "11224324000232",
+      "unit": "NO",
+      "rate": "18",
+      "subtotal": "06",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Invoice :-/",
+      "qty": "2025",
+      "unit": "NO",
+      "rate": "26",
+      "subtotal": "0227",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Date:-Jan",
+      "qty": "10",
+      "unit": "NOS",
+      "rate": "2026",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Shed :BRs :/GROCERY DC Surampally VlGannavaram MandalKrishna",
+      "qty": "403",
+      "unit": "NO",
+      "rate": "2",
+      "subtotal": "52121",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAl:Validity",
+      "qty": "27",
+      "unit": "NOS",
+      "rate": "08",
+      "subtotal": "2029",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Of",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "HSN Code",
+      "qty": "1",
+      "unit": "BAGS",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Bags",
+      "qty": "1",
+      "unit": "KGS",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "7.47"
+}

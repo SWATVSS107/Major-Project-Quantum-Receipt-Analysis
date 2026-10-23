@@ -1,0 +1,94 @@
+{
+  "source_file": "200_INDORE_page_0.pdf",
+  "vendor_name": "STIN24AABR3771L12P",
+  "gstin": "",
+  "invoice_no": "09/04/202",
+  "date": "09/04/202",
+  "items": [
+    {
+      "product_description": "R.MAHENDRAKUMAR & COMPANY",
+      "qty": "2334",
+      "unit": "NOS",
+      "rate": "200502220202",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "VAUDITY: //",
+      "qty": "09",
+      "unit": "NOS",
+      "rate": "04",
+      "subtotal": "202",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PHN = + + +",
+      "qty": "91.9925354324",
+      "unit": "NOS",
+      "rate": "915825525323",
+      "subtotal": "91990953522",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "NVOICEATE//",
+      "qty": "12",
+      "unit": "NOS",
+      "rate": "2025",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "DAEOFSUPPLY//",
+      "qty": "12",
+      "unit": "NOS",
+      "rate": "2225",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "e NoMPHG",
+      "qty": "09",
+      "unit": "NOS",
+      "rate": "5589",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Way Bil",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

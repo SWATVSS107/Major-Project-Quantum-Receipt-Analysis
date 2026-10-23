@@ -1,0 +1,70 @@
+{
+  "source_file": "01_page_1.pdf",
+  "vendor_name": "Way Bill",
+  "gstin": "36CVZPP2082D1Z3",
+  "invoice_no": "Supply-SAl/411",
+  "date": "7-0-2512",
+  "items": [
+    {
+      "product_description": "aledD",
+      "qty": "0",
+      "unit": "NOS",
+      "rate": "25125",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Oct",
+      "qty": "10",
+      "unit": "NOS",
+      "rate": "2511",
+      "subtotal": "59",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "OtherAmt",
+      "qty": "33.000",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": ".33.000.00 OtherAmt",
+      "qty": "5.000",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Total lnvAmt",
+      "qty": "8.51",
+      "unit": "NOS",
+      "rate": "000.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

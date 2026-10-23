@@ -1,0 +1,130 @@
+{
+  "source_file": "365_page_0.pdf",
+  "vendor_name": "Bill of Supplly",
+  "gstin": "24AAQFA1548P1Z0",
+  "invoice_no": "365",
+  "date": "04/07/2025",
+  "items": [
+    {
+      "product_description": "Ph:Mo  Email padmavatifoods@gmailcom",
+      "qty": "02718282123",
+      "unit": "NOS",
+      "rate": "9825036997",
+      "subtotal": "9825073997",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "GST :AAQFAPZ MSME UDYAM-GJ",
+      "qty": "01",
+      "unit": "NO",
+      "rate": "0351132",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAl : Validity://",
+      "qty": "10716002000184",
+      "unit": "NO",
+      "rate": "10",
+      "subtotal": "07",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Invoice",
+      "qty": "365",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "//",
+      "qty": "04",
+      "unit": "NOS",
+      "rate": "07",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Survey //B/ &/ Village KoshimbiMumbai-Nashik Highway",
+      "qty": "57",
+      "unit": "NO",
+      "rate": "7",
+      "subtotal": "52",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Truck",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAI License number-Validity-// Antonov",
+      "qty": "11524069000414",
+      "unit": "NOS",
+      "rate": "12",
+      "subtotal": "12",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Batch",
+      "qty": "1",
+      "unit": "BAG",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "35.00",
+      "qty": "9800.00",
+      "unit": "KGS",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "648700.00"
+}

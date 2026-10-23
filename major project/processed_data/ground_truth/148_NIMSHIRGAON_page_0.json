@@ -1,0 +1,82 @@
+{
+  "source_file": "148_NIMSHIRGAON_page_0.pdf",
+  "vendor_name": "R.MAHENDRAKUMAR &COMPANY",
+  "gstin": "",
+  "invoice_no": "09/04/202",
+  "date": "09/04/202",
+  "items": [
+    {
+      "product_description": "VALIDITY://",
+      "qty": "09",
+      "unit": "NOS",
+      "rate": "04",
+      "subtotal": "202",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "URCHASE ORDEN",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "GATENOZT/S/&Z//SANGLI-KOLHAPOR BYPASSR",
+      "qty": "2",
+      "unit": "NOS",
+      "rate": "2",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "A/C",
+      "qty": "00435300108",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": ")",
+      "qty": "13.000",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "200",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "13.000.00 200)",
+      "qty": "3",
+      "unit": "NOS",
+      "rate": "000.00",
+      "subtotal": "378",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

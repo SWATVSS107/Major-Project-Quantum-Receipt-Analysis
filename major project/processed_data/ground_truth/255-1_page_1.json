@@ -1,0 +1,94 @@
+{
+  "source_file": "255-1_page_1.pdf",
+  "vendor_name": "Way Bi",
+  "gstin": "",
+  "invoice_no": "Upto31Jul-25",
+  "date": "11.12.2028",
+  "items": [
+    {
+      "product_description": "likd UptoJul- : PM",
+      "qty": "25",
+      "unit": "NOS",
+      "rate": "11",
+      "subtotal": "59",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Plot  survey  (p)(p)phase-IlPatancheru",
+      "qty": "20",
+      "unit": "NO",
+      "rate": "439",
+      "subtotal": "440",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Upto",
+      "qty": "11.12",
+      "unit": "NOS",
+      "rate": "2028",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "isa Puifed Gram Dall & Pulled Gram Dal",
+      "qty": "0008",
+      "unit": "NOS",
+      "rate": "91",
+      "subtotal": "800.00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Other A",
+      "qty": "8",
+      "unit": "NOS",
+      "rate": "91",
+      "subtotal": "800.00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Total lnv Am",
+      "qty": "8.91",
+      "unit": "NOS",
+      "rate": "800.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Doc",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

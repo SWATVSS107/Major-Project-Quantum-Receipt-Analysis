@@ -1,0 +1,106 @@
+{
+  "source_file": "12TN_MANKOLI_page_0.pdf",
+  "vendor_name": "KIAH INTERNATIONAL",
+  "gstin": "",
+  "invoice_no": "MUMBAI-4007",
+  "date": "07/01/31",
+  "items": [
+    {
+      "product_description": "D//",
+      "qty": "01",
+      "unit": "NOS",
+      "rate": "31",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "F/VASHI//COMP/LICNO/WH",
+      "qty": "2016",
+      "unit": "NOS",
+      "rate": "73",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "MAHAVIR COMPLEX GODOWN B-& ANJUR VILLAJE MANKOLI",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "2",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "/",
+      "qty": "02002",
+      "unit": "NOS",
+      "rate": "2028",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "DO",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "l//",
+      "qty": "02",
+      "unit": "NOS",
+      "rate": "202",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "SSA //",
+      "qty": "12",
+      "unit": "NOS",
+      "rate": "2",
+      "subtotal": "2020",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "12000.000",
+      "qty": "18000.00",
+      "unit": "NOS",
+      "rate": "48000.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "1898667.00"
+}

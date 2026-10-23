@@ -1,0 +1,70 @@
+{
+  "source_file": "246_page_0.pdf",
+  "vendor_name": "CREDIT NOTE",
+  "gstin": "27AACCA8432H1ZQ",
+  "invoice_no": "41F/VASHI/2016",
+  "date": "07/01/31",
+  "items": [
+    {
+      "product_description": "F/VASHI//COMP/LICNO(WH)",
+      "qty": "2016",
+      "unit": "NOS",
+      "rate": "73",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PHONE : / EmallEnfokiahinternational@gmailcom",
+      "qty": "9137727033",
+      "unit": "NOS",
+      "rate": "9137727033",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAI D:(//)",
+      "qty": "07",
+      "unit": "NOS",
+      "rate": "01",
+      "subtotal": "31",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "DO",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "DeD//",
+      "qty": "01",
+      "unit": "NOS",
+      "rate": "2026",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "1000.00"
+}

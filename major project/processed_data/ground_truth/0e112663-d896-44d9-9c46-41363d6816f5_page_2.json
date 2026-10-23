@@ -1,0 +1,130 @@
+{
+  "source_file": "0e112663-d896-44d9-9c46-41363d6816f5_page_2.pdf",
+  "vendor_name": "Validation And Renewal Annexure",
+  "gstin": "",
+  "invoice_no": "17-10-2017",
+  "date": "17-10-2017",
+  "items": [
+    {
+      "product_description": "Authority",
+      "qty": "17",
+      "unit": "NOS",
+      "rate": "10",
+      "subtotal": "2017",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "17-10-2017",
+      "qty": "16",
+      "unit": "NOS",
+      "rate": "10",
+      "subtotal": "2022",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "16-10-2022",
+      "qty": "17",
+      "unit": "NOS",
+      "rate": "10",
+      "subtotal": "2017",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Authority",
+      "qty": "710",
+      "unit": "NOS",
+      "rate": "2022",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "710-2022",
+      "qty": "16",
+      "unit": "NOS",
+      "rate": "10",
+      "subtotal": "2023",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "16-10-2023",
+      "qty": "22",
+      "unit": "NOS",
+      "rate": "09",
+      "subtotal": "2022",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "(Authority",
+      "qty": "710",
+      "unit": "NOS",
+      "rate": "2022",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "710-2022",
+      "qty": "6",
+      "unit": "NOS",
+      "rate": "10",
+      "subtotal": "2023",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "6-10-2023",
+      "qty": "28",
+      "unit": "NOS",
+      "rate": "10",
+      "subtotal": "2022",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Authority",
+      "qty": "1710",
+      "unit": "NOS",
+      "rate": "2023",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

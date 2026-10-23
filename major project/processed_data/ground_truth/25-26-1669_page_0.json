@@ -1,0 +1,130 @@
+{
+  "source_file": "25-26-1669_page_0.pdf",
+  "vendor_name": "USIECT TOJALGAOUURSRCTEE",
+  "gstin": "",
+  "invoice_no": "25-26/1669",
+  "date": "11/11/2025",
+  "items": [
+    {
+      "product_description": "REGOFHICEA- TOOLDMIOC JALGAON-(MH)",
+      "qty": "92",
+      "unit": "NOS",
+      "rate": "425003",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "/T/-/",
+      "qty": "200",
+      "unit": "NOS",
+      "rate": "177",
+      "subtotal": "570",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "VALIDITY",
+      "qty": "05",
+      "unit": "NOS",
+      "rate": "2027",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PLOT  SURVEY : (P) (p)PHASE-IIPATANCHERUSANGAREDDY HYDERABAD",
+      "qty": "20",
+      "unit": "NO",
+      "rate": "439",
+      "subtotal": "440",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "PLOT NOSURVEY :SP) (p)PHASE-IIPATANCHERUSANGAREDDY HYDERABAD",
+      "qty": "440",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "CIRCLE   (RAMCHANDRAPURAM AND PATANCHERU)HYDERABAD WEST ZONE",
+      "qty": "13",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "CIRCLE   (RAMCHANDRAPURAM AND PATANCHERU)HYDERABAD WEST ZONE",
+      "qty": "13",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "VALITY//",
+      "qty": "01",
+      "unit": "NOS",
+      "rate": "2026",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "VALIDITY://",
+      "qty": "25",
+      "unit": "NOS",
+      "rate": "01",
+      "subtotal": "2026",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "INVOICE OATES//",
+      "qty": "11",
+      "unit": "NOS",
+      "rate": "202",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

@@ -1,0 +1,70 @@
+{
+  "source_file": "18-B-1_page_0.pdf",
+  "vendor_name": "SHREE DHARIVAL SUPPLIERS",
+  "gstin": "",
+  "invoice_no": "JOSEPHS",
+  "date": "22.24.25",
+  "items": [
+    {
+      "product_description": "SN///TO/KADAAGRMAIN ROADOPPST",
+      "qty": "122.24",
+      "unit": "NOS",
+      "rate": "25",
+      "subtotal": "2",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "DO",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "//",
+      "qty": "29",
+      "unit": "NOS",
+      "rate": "10",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "el://",
+      "qty": "29",
+      "unit": "NOS",
+      "rate": "10",
+      "subtotal": "2023",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "25000.000",
+      "qty": "9650.0018250",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "25000.00"
+}

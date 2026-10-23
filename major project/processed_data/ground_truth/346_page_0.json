@@ -1,0 +1,130 @@
+{
+  "source_file": "346_page_0.pdf",
+  "vendor_name": "AM AGRO INDUSTRIES",
+  "gstin": "27AAFCA9142B1ZY",
+  "invoice_no": "346",
+  "date": "10/07/2027",
+  "items": [
+    {
+      "product_description": "Ph:Mo  Email:padmavatifoodsgmailcom",
+      "qty": "02718282123",
+      "unit": "NOS",
+      "rate": "9825036997",
+      "subtotal": "9825073997",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAl : Validity://",
+      "qty": "10716002000184",
+      "unit": "NO",
+      "rate": "10",
+      "subtotal": "07",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "AckNo/Date:-//",
+      "qty": "162521147677205",
+      "unit": "NOS",
+      "rate": "28",
+      "subtotal": "06",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Invoice",
+      "qty": "346",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "/z/Ancariksn Loqidromeviilage AmaneBniwandl",
+      "qty": "3.5",
+      "unit": "NO",
+      "rate": "42",
+      "subtotal": "7",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "//",
+      "qty": "28",
+      "unit": "NOS",
+      "rate": "06",
+      "subtotal": "2025",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Truck",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "HSN/SAC",
+      "qty": "1",
+      "unit": "BAG",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "5350.00KGS",
+      "qty": "2.005",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "2.005.00",
+      "qty": "6.95",
+      "unit": "NOS",
+      "rate": "500.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "5.95"
+}

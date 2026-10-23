@@ -1,0 +1,106 @@
+{
+  "source_file": "0360_SHREE_HARI_FOODS____MANISH_JI___MBR___________page_0.pdf",
+  "vendor_name": "SHIVSALPEST CONTRO",
+  "gstin": "36ACZPJ8068N1ZF",
+  "invoice_no": "QMS-049",
+  "date": "23-Jul-25",
+  "items": [
+    {
+      "product_description": "SO",
+      "qty": "9001",
+      "unit": "NOS",
+      "rate": "2015",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "nvoiceNo:SSPC//",
+      "qty": "0360",
+      "unit": "NOS",
+      "rate": "25",
+      "subtotal": "26",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "S",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "70.00]",
+      "qty": "2.800",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "_Amount",
+      "qty": "2.800",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "hreeThousand Three Hungred rour Only",
+      "qty": "3",
+      "unit": "NOS",
+      "rate": "304.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "GOODSAND SERVICETAX :ASVPPNIZH",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Head Office:Shop Plot Dhruv NlketanSector KamotheNavi Mumbal",
+      "qty": "04",
+      "unit": "NO",
+      "rate": "82",
+      "subtotal": "35",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

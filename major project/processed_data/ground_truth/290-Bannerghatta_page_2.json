@@ -1,0 +1,130 @@
+{
+  "source_file": "290-Bannerghatta_page_2.pdf",
+  "vendor_name": "-Way Bill",
+  "gstin": "29AACCA8432H1ZM",
+  "invoice_no": "27-Jun-25",
+  "date": "27-Jun-25",
+  "items": [
+    {
+      "product_description": "Doc Bill of Supply",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Jun",
+      "qty": "27",
+      "unit": "NOS",
+      "rate": "25",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "e-Way Bll",
+      "qty": "132146205998",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Generated Date-Jun- : PM",
+      "qty": "25",
+      "unit": "NOS",
+      "rate": "4",
+      "subtotal": "39",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Jun-: PM",
+      "qty": "30",
+      "unit": "NOS",
+      "rate": "2511",
+      "subtotal": "59",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Rice MPNo KIADBRachur Road",
+      "qty": "18.21",
+      "unit": "NOS",
+      "rate": "22",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "headNoSiteNo/",
+      "qty": "2",
+      "unit": "NOS",
+      "rate": "137.139",
+      "subtotal": "140.150",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "186.680",
+      "qty": "7.41",
+      "unit": "NOS",
+      "rate": "119.60",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "113.620",
+      "qty": "5.59",
+      "unit": "NOS",
+      "rate": "010.40",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "9.920",
+      "qty": "1.80",
+      "unit": "NOS",
+      "rate": "710.40",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

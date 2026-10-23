@@ -1,0 +1,82 @@
+{
+  "source_file": "069_SURAT_page_0.pdf",
+  "vendor_name": "RMAHENDRAKUMAR & COMPANY",
+  "gstin": "",
+  "invoice_no": "SUPPY29/06/2025",
+  "date": "29/06/2025",
+  "items": [
+    {
+      "product_description": "U  OPLOT -LATOXMA-MOT PARD",
+      "qty": "7",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "DATE OF SUPPY//",
+      "qty": "06",
+      "unit": "NOS",
+      "rate": "2025",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "ideNTX",
+      "qty": "10",
+      "unit": "NOS",
+      "rate": "3",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "river Lk  &STATE",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "RRREGRNO",
+      "qty": "2.722",
+      "unit": "NOS",
+      "rate": "72",
+      "subtotal": "180",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "2.722.72  180",
+      "qty": "1",
+      "unit": "NOS",
+      "rate": "36",
+      "subtotal": "238.0",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

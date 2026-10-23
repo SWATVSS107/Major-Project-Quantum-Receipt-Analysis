@@ -1,0 +1,106 @@
+{
+  "source_file": "369-1_page_1.pdf",
+  "vendor_name": "Way Bill",
+  "gstin": "36CVZPP2082D1Z3",
+  "invoice_no": "Billof",
+  "date": "12.88.350",
+  "items": [
+    {
+      "product_description": "Billof Supply-SAV/",
+      "qty": "369",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "da",
+      "qty": "97",
+      "unit": "NOS",
+      "rate": "07",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "raledDa:-p",
+      "qty": "20",
+      "unit": "NOS",
+      "rate": "253525",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "ep",
+      "qty": "24",
+      "unit": "NOS",
+      "rate": "2511",
+      "subtotal": "59",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "132te Puffed Gram Dall & Puffed Gram Dall",
+      "qty": "00012",
+      "unit": "NOS",
+      "rate": "56.850",
+      "subtotal": "00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "TotTaxable Amt  Other Amt",
+      "qty": "12.56",
+      "unit": "NOS",
+      "rate": "850.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Tot.Taxable Amt 12.56,850.00 Other Amt",
+      "qty": "31.500",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Total Inv Amt",
+      "qty": "12.88",
+      "unit": "NOS",
+      "rate": "350.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

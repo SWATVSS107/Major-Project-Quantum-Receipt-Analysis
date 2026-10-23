@@ -1,0 +1,130 @@
+{
+  "source_file": "166__AVENUE_SUPERMARTS_LIMITED_MEDCHAL_page_0.pdf",
+  "vendor_name": "maruti",
+  "gstin": "",
+  "invoice_no": "2025-26/0166",
+  "date": "18-06-2029",
+  "items": [
+    {
+      "product_description": "Factory:#//AKIADB Growth CenterHyderabad RoadYermarasRAICHUR",
+      "qty": "213",
+      "unit": "NOS",
+      "rate": "9",
+      "subtotal": "584134",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Mobile:+-Email srimarutind@gmailcom Website:wwwsrimarutiagro",
+      "qty": "91",
+      "unit": "NOS",
+      "rate": "9448288281.82",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "GSTNRAMFSNPAN ABMFSB FSSAI   VAdUO",
+      "qty": "11224324000232",
+      "unit": "NO",
+      "rate": "18",
+      "subtotal": "06",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Invoice :-/",
+      "qty": "2025",
+      "unit": "NO",
+      "rate": "26",
+      "subtotal": "0166",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Date:-ct",
+      "qty": "28",
+      "unit": "NOS",
+      "rate": "2025",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "sy EEEKnishna RedayGodownDevaryamzalvShameerpei",
+      "qty": "721",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Delivery At: MedchalMob:/",
+      "qty": "9030001294",
+      "unit": "NOS",
+      "rate": "93",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAI Validitv",
+      "qty": "25",
+      "unit": "NOS",
+      "rate": "01",
+      "subtotal": "2028",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Of",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "HSN Code",
+      "qty": "1",
+      "unit": "BAGS",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "587020.00"
+}

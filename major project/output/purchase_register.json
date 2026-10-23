@@ -1,0 +1,252 @@
+[
+  {
+    "file_name": "01.11.23 NAVI MUMBAI.pdf",
+    "vendor_name": "SRI HARI FOOD PRODUCTS",
+    "seller_gstin": "36ACZPJ8068N1ZF",
+    "seller_pan": "ACZPJ8068N",
+    "buyer_gstin": "27AABFN5107A1ZW",
+    "invoice_number": "SHFP/23-24/856",
+    "invoice_date": "1-Nov-23",
+    "products": [
+      {
+        "description": "Orid Dall 50Kg Bag",
+        "qty": 200.0,
+        "unit": "Bag",
+        "rate": 6360.0,
+        "amount": 1272000.0
+      }
+    ],
+    "subtotal": 1272000.0,
+    "discount": 0.0,
+    "freight": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 0.0,
+    "grand_total": 1272000.0
+  },
+  {
+    "file_name": "156 ANKHI.pdf",
+    "vendor_name": "R.MAHENDRAKUMAR & COMPANY",
+    "seller_gstin": "24AABFR9771L1ZP",
+    "seller_pan": "AABFR9771L",
+    "buyer_gstin": "24AACCA8432H1ZW",
+    "invoice_number": "156",
+    "invoice_date": "27/10/2025",
+    "products": [
+      {
+        "description": "LOOSE MASURI",
+        "qty": 193.0,
+        "unit": "Bag",
+        "rate": 3500.0,
+        "amount": 175630.0
+      }
+    ],
+    "subtotal": 175630.0,
+    "discount": 3512.6,
+    "freight": 3512.6,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 0.0,
+    "grand_total": 175630.0
+  },
+  {
+    "file_name": "25-26_28_for_ARMANIA_AGRO_INDUSTRIES.pdf",
+    "vendor_name": "SHREE BALAJI ENTERPRISE",
+    "seller_gstin": "08AFPPL7100J1Z9",
+    "seller_pan": "AAOFA6645D",
+    "buyer_gstin": "24AAOFA6645D1ZJ",
+    "invoice_number": "25-26/28",
+    "invoice_date": "19 Jan 2026",
+    "products": [
+      {
+        "description": "Red Chawli",
+        "qty": 16500.0,
+        "unit": "Bags",
+        "rate": 84.25,
+        "amount": 1390125.0
+      }
+    ],
+    "subtotal": 1390125.0,
+    "discount": 0.0,
+    "freight": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 0.0,
+    "grand_total": 1390125.0
+  },
+  {
+    "file_name": "28-06-25, 617 PM Microsoft Lens.pdf",
+    "vendor_name": "MAHALAKSHMI PAR BOILED INDUSTRIES POCHARAM PVT.LTD",
+    "seller_gstin": "36AAICM6436D1ZH",
+    "seller_pan": "AAICM6436D",
+    "buyer_gstin": "36AACCA8432H1ZR",
+    "invoice_number": "291",
+    "invoice_date": "28-06-2025",
+    "products": [
+      {
+        "description": "LOOSE SONA MASOORI RICE",
+        "qty": 800.0,
+        "unit": "Bag",
+        "rate": 4100.0,
+        "amount": 852800.0
+      }
+    ],
+    "subtotal": 852800.0,
+    "discount": 17056.0,
+    "freight": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 0.0,
+    "grand_total": 835744.0
+  },
+  {
+    "file_name": "68 AVENUE SUPERMARTS LTD RAMACHANDRAPURAM.pdf",
+    "vendor_name": "SRI MARUTI INDUSTRIESS",
+    "seller_gstin": "29AMBFS3896B2ZN",
+    "seller_pan": "AACCA8432H",
+    "buyer_gstin": "36AACCA8432H1ZR",
+    "invoice_number": "2025-26/068",
+    "invoice_date": "25-Jun-2025",
+    "products": [
+      {
+        "description": "IDLI RAWA",
+        "qty": 400.0,
+        "unit": "Bag",
+        "rate": 3050.0,
+        "amount": 597800.0
+      }
+    ],
+    "subtotal": 597800.0,
+    "discount": 12200.0,
+    "freight": 20000.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 0.0,
+    "grand_total": 617800.0
+  },
+  {
+    "file_name": "WhatsApp Image 2026-01-12 at 3.17.18 PM.jpeg",
+    "vendor_name": "M. MOHANLAL & SONS",
+    "seller_gstin": "27AAAHM0134M1ZC",
+    "seller_pan": "AAAHM0134M",
+    "buyer_gstin": "27AASPV4194Q1ZC",
+    "invoice_number": "InvNo.158158",
+    "invoice_date": "09/01/26",
+    "products": [
+      {
+        "description": "RED CHILLY NAGLI-RAGI",
+        "qty": 3.0,
+        "unit": "Bag",
+        "rate": 5101.1,
+        "amount": 4590.99
+      }
+    ],
+    "subtotal": 4590.99,
+    "discount": 0.0,
+    "freight": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 0.0,
+    "grand_total": 4590.99
+  },
+  {
+    "file_name": "WhatsApp Image 2026-01-12 at 3.18.54 PM.jpeg",
+    "vendor_name": "SHUBH CORPORATION",
+    "seller_gstin": "",
+    "seller_pan": "AAHPM1460D",
+    "buyer_gstin": "27AASPV4194Q1ZC",
+    "invoice_number": "18022",
+    "invoice_date": "12/01/26",
+    "products": [
+      {
+        "description": "Udid Katta",
+        "qty": 1.0,
+        "unit": "Bag",
+        "rate": 8801.1,
+        "amount": 2640.33
+      }
+    ],
+    "subtotal": 2640.33,
+    "discount": 0.0,
+    "freight": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 0.0,
+    "grand_total": 2661.45
+  },
+  {
+    "file_name": "_Avenue Supermarts ( INDORE ) - 3157.pdf",
+    "vendor_name": "SHARDA FRESH FOODS PRIVATE LIMITED",
+    "seller_gstin": "09ABDCS2377M1ZS",
+    "seller_pan": "ABDCS2377M",
+    "buyer_gstin": "23AACCA8432H1ZY",
+    "invoice_number": "SFF/3157/25-26",
+    "invoice_date": "4-Jan-2026",
+    "products": [
+      {
+        "description": "Chakki Atta",
+        "qty": 1000.0,
+        "unit": "Bag",
+        "rate": 734.5,
+        "amount": 752538.0
+      }
+    ],
+    "subtotal": 752538.0,
+    "discount": 0.0,
+    "freight": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 0.0,
+    "grand_total": 752538.0
+  },
+  {
+    "file_name": "_Dattawadi.xlsx - PUNE.pdf-11450.pdf",
+    "vendor_name": "SHRI MAANPURI STARCH PRODUCTS",
+    "seller_gstin": "27AAAPC5121C1ZL",
+    "seller_pan": "AAAPC5121C",
+    "buyer_gstin": "27AACCA8432H1ZQ",
+    "invoice_number": "11450",
+    "invoice_date": "14/01/2026",
+    "products": [
+      {
+        "description": "SABUDANA",
+        "qty": 250.0,
+        "unit": "Bag",
+        "rate": 3550.0,
+        "amount": 492821.7
+      }
+    ],
+    "subtotal": 492821.7,
+    "discount": 0.0,
+    "freight": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 0.0,
+    "grand_total": 492821.7
+  },
+  {
+    "file_name": "_Dattawadi.xlsx - PUNE.pdf-11451.pdf",
+    "vendor_name": "SHRI MAANPURI STARCH PRODUCTS",
+    "seller_gstin": "27AAAPC5121C1ZL",
+    "seller_pan": "AAAPC5121C",
+    "buyer_gstin": "27AACCA8432H1ZQ",
+    "invoice_number": "11451",
+    "invoice_date": "14/01/2026",
+    "products": [
+      {
+        "description": "SABUDANA",
+        "qty": 250.0,
+        "unit": "Bag",
+        "rate": 3550.0,
+        "amount": 492821.7
+      }
+    ],
+    "subtotal": 492821.7,
+    "discount": 0.0,
+    "freight": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 0.0,
+    "grand_total": 492821.7
+  }
+]

@@ -1,0 +1,130 @@
+{
+  "source_file": "0239__AVENUE_SUPERMARTS_LTD_RAMACHANDRAPURAM_page_0.pdf",
+  "vendor_name": "maruti",
+  "gstin": "",
+  "invoice_no": "RAICHUR-5841",
+  "date": "18-06-2029",
+  "items": [
+    {
+      "product_description": "Factory:#//AKIADB Growth CenterHyderabad RoadYermarasRAICHUR",
+      "qty": "213",
+      "unit": "NOS",
+      "rate": "9",
+      "subtotal": "584134",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Mobile:+-Emailsrimarutlind@gmailcom Website:wwwsrimarutiaqro",
+      "qty": "91",
+      "unit": "NOS",
+      "rate": "9448288281.82",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "GSTIN:ABMFSZN PAN:ABMFSB FSSAI : Valid Upto",
+      "qty": "11224324000232",
+      "unit": "NO",
+      "rate": "06",
+      "subtotal": "2029",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "nvoice :-/",
+      "qty": "2025",
+      "unit": "NO",
+      "rate": "26",
+      "subtotal": "0239",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Plot Sy P)P)Phase-llPatancheru",
+      "qty": "20",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Sangareddy Hyderabad Circle   Ramachandrapuram",
+      "qty": "13",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSA VaIdItV",
+      "qty": "25",
+      "unit": "NOS",
+      "rate": "01",
+      "subtotal": "2026",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Mob:/",
+      "qty": "9030001294",
+      "unit": "NOS",
+      "rate": "93",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "OfPacking Quantity",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "HSN Code",
+      "qty": "1",
+      "unit": "BAGS",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "735000.00"
+}

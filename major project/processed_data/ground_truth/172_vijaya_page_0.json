@@ -1,0 +1,130 @@
+{
+  "source_file": "172_vijaya_page_0.pdf",
+  "vendor_name": "SAGAR AGROINDUSTRIES",
+  "gstin": "",
+  "invoice_no": "02622-2536",
+  "date": "22-06-2024",
+  "items": [
+    {
+      "product_description": "Contact:- (M)Emal: sagar_agroind@yahocoinTANSRsE",
+      "qty": "02622",
+      "unit": "NOS",
+      "rate": "253616",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "GSTRAAJFSBZPANRAAJFSBESSAVAId DT//",
+      "qty": "07",
+      "unit": "NOS",
+      "rate": "2029",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "nv",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "CS  PLOT  SHAHU MARKETYARD",
+      "qty": "433",
+      "unit": "NO",
+      "rate": "410",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "SNOPLOT ISHAHUMARKEI",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Date",
+      "qty": "22",
+      "unit": "NOS",
+      "rate": "06",
+      "subtotal": "2024",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Purc Ord",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Date",
+      "qty": "22",
+      "unit": "NOS",
+      "rate": "06",
+      "subtotal": "2024",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Ph",
+      "qty": "94238",
+      "unit": "NOS",
+      "rate": "69741",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "FSSAI::Valid Dt //",
+      "qty": "01",
+      "unit": "NOS",
+      "rate": "07",
+      "subtotal": "17",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "1200.00"
+}

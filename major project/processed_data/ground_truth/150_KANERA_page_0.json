@@ -1,0 +1,58 @@
+{
+  "source_file": "150_KANERA_page_0.pdf",
+  "vendor_name": "RAMAHENDRAKOMAR&COMPANY",
+  "gstin": "",
+  "invoice_no": "",
+  "date": "",
+  "items": [
+    {
+      "product_description": "FSSAI",
+      "qty": "10718002000071",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "URCHASE ORDER",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "hice NoGJVV",
+      "qty": "02",
+      "unit": "NOS",
+      "rate": "7107",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Way l",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

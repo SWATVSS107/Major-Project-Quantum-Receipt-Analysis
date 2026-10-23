@@ -1,0 +1,46 @@
+{
+  "source_file": "0e112663-d896-44d9-9c46-41363d6816f5_page_4.pdf",
+  "vendor_name": "Condition of License",
+  "gstin": "",
+  "invoice_no": "",
+  "date": "",
+  "items": [
+    {
+      "product_description": "Furnish periodic annual return st April to  st March with in",
+      "qty": "5",
+      "unit": "NOS",
+      "rate": "31",
+      "subtotal": "31",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Ensure that  product other than the product indicated in the",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Maintain factory's sanitary and hygienic standards and worke",
+      "qty": "7",
+      "unit": "NOS",
+      "rate": "4",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

@@ -1,0 +1,58 @@
+{
+  "source_file": "_AVENUE_INVOICE_AMBI_BOS394_PDF_page_0.pdf",
+  "vendor_name": "SUEECE TO TENALIPORCICHIOR",
+  "gstin": "",
+  "invoice_no": "WORES",
+  "date": "01/08/2029",
+  "items": [
+    {
+      "product_description": "VALICITYA//",
+      "qty": "08",
+      "unit": "NOS",
+      "rate": "2029",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "VEHICE KA",
+      "qty": "3085",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "DRIVER LICENCE  & STATE",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "After  days from bill date interest will be charged @ % per ",
+      "qty": "4",
+      "unit": "NOS",
+      "rate": "30",
+      "subtotal": "2",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}

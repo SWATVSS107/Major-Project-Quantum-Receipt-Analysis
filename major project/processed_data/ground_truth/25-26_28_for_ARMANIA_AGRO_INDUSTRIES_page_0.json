@@ -1,0 +1,82 @@
+{
+  "source_file": "25-26_28_for_ARMANIA_AGRO_INDUSTRIES_page_0.pdf",
+  "vendor_name": "SHREEBALAJIENTERPRISE",
+  "gstin": "",
+  "invoice_no": "25-26/28",
+  "date": "25-26/28",
+  "items": [
+    {
+      "product_description": "/",
+      "qty": "25",
+      "unit": "NOS",
+      "rate": "26",
+      "subtotal": "28",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Ward   Sikar Link Rosd",
+      "qty": "18",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "34.26",
+      "qty": "16",
+      "unit": "KGS",
+      "rate": "500",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "16,500 KGS",
+      "qty": "13",
+      "unit": "NOS",
+      "rate": "90",
+      "subtotal": "125.00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Total",
+      "qty": "13.90",
+      "unit": "NOS",
+      "rate": "125.00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "AmouncPayavie",
+      "qty": "13",
+      "unit": "NOS",
+      "rate": "90",
+      "subtotal": "125.00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": "13.90"
+}

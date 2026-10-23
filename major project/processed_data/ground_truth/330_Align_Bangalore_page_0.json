@@ -1,0 +1,130 @@
+{
+  "source_file": "330_Align_Bangalore_page_0.pdf",
+  "vendor_name": "Email ld",
+  "gstin": "",
+  "invoice_no": "330",
+  "date": "07/08/2029",
+  "items": [
+    {
+      "product_description": "Phone",
+      "qty": "1",
+      "unit": "NO",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Phone No.",
+      "qty": "08472",
+      "unit": "NOS",
+      "rate": "265730",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "#//Nehru GunKALABURAGI",
+      "qty": "8",
+      "unit": "NOS",
+      "rate": "1311",
+      "subtotal": "3",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "HSN/SAC GST%",
+      "qty": "1",
+      "unit": "BAGS",
+      "rate": "",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "50250.000Qt",
+      "qty": "7.350",
+      "unit": "NOS",
+      "rate": "0018.37",
+      "subtotal": "500.00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "%",
+      "qty": "2",
+      "unit": "NOS",
+      "rate": "36",
+      "subtotal": "750.00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Lorry Freight Advance",
+      "qty": "55.000",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "INR Eighteen Lakh Fifty Five Thousand Seven Hundred Fifty On",
+      "qty": "18",
+      "unit": "NOS",
+      "rate": "55",
+      "subtotal": "750.00",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "Fotal Freigh",
+      "qty": "55.000",
+      "unit": "NOS",
+      "rate": "00",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    },
+    {
+      "product_description": "per GSTrate )Not /",
+      "qty": "28",
+      "unit": "NO",
+      "rate": "2017",
+      "subtotal": "",
+      "discount": "0.00",
+      "freight": "0.00",
+      "cgst": "0.00",
+      "sgst": "0.00",
+      "igst": "0.00"
+    }
+  ],
+  "grand_total": ""
+}
